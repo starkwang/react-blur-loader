@@ -2,7 +2,7 @@
   "name": "loader",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://blog.starkwang.com/react-blur-loader/",
+  "homepage": "http://blog.starkwang.com/react-blur-loader/build",
   "devDependencies": {
     "react-scripts": "0.4.1"
   },
